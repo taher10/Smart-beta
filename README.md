@@ -1,2 +1,4 @@
 # Smart-beta
-This project tries to create an index investment strategy using the Fama-French 5 factors, and applying quantitative techniques like Mean-variance optimization and Markov switching model for allocating weights. 
+This project aims to design an index investment strategy leveraging the Fama-French 5-factor model while integrating advanced quantitative techniques such as mean Mean-Variance Optimization and the Markov Switching Model for dynamic weight allocation. The goal is to create a robust portfolio that maximizes returns and minimizes risks by systematically adjusting factor weights based on historical performance and prevailing market regimes.
+
+
